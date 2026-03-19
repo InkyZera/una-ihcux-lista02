@@ -13,4 +13,7 @@ Arquivos que o .NET criou para mim:
 2. `SistemaExpert.csproj`: As configurações do meu projeto.
 
 ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto](./minha-evidencia.png)
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/0efa82bb-1d52-423c-8c00-0a135d5b8e56" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/8cacc7fd-94ff-4905-bba9-7c9d5ae2fa3d" />
+
+
